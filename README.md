@@ -1,2 +1,2 @@
-# cs500x2025 Solutions
+# cs50x2025 Solutions
 This are the answers made by `César Willemberg` xD
